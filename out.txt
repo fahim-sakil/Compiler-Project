@@ -1,0 +1,22 @@
+This is a single line comment
+Variable Declaration
+Value of the variable: 2	
+Value of the variable: 8	
+Value of the variable: 5	
+Value of expression in IF: 8
+Value of the variable: 1	
+Value of the variable: 2	
+Value of the variable: 3	
+Value of expression: 1
+Value of the loop: 1 expression value: 1
+Value of the loop: 2 expression value: 1
+Value of the loop: 3 expression value: 1
+Value of the loop: 4 expression value: 1
+value = 3
+value = 2
+value = 6
+value = 4
+Print Expression 1
+Value of expression: 16
+Value of Sin(30) is 0.500001
+Value of expression: 0

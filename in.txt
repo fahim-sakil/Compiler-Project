@@ -1,0 +1,47 @@
+import stdio.h
+import math.h
+
+start
+[
+	$$Starting of the program
+	intgr p,q,r,a,b,c,m;
+	p=2;
+	q=8;
+	r=5;
+	when(q greater p)
+	[
+		q;
+	]
+	otherwise
+	[
+		p;
+	]
+
+	a=1;
+	b=2;
+	c=3;
+	lp_for (1 to 5)
+	[
+		a;
+	]
+	
+
+	switching ( a )
+	[
+	case 1 :
+		a plus b; exit;
+	+
+	case 2 :
+		c minus a; exit;
+	+
+	case 3 : 
+		b cross c; exit;
+	def :
+		q divide p; exit;
+	]
+
+	
+	out(a);
+	2 pow 4;
+	SIN(30);
+]	
